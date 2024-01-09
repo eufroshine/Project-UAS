@@ -89,3 +89,5 @@ Menghitung dan menampilkan struk, termasuk barang yang dipesan, total harga, uan
     print(datetime.now().strftime("%d/%m/%Y %H:%M:%S"))
 
 Mencetak tanggal dan waktu saat ini ketika transaksi selesai dilakukan.
+
+Berikut adalah penjelasan berupa video tentang kode tersebut : https://youtu.be/1UOnZfv5kEU?si=kw-PgEpPHdzvHPbx
