@@ -52,7 +52,7 @@ while True:
 uang_pelanggan = float(input("Cash: "))
 
 # Showing Receipt
-print("# Nama toko")
+print("Candy Shop")
 print(toko["nama"])
 print(toko["alamat"])
 print(toko["nomor_telepon"])
